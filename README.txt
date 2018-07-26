@@ -1,8 +1,3 @@
-Author:
-Baudelaire Belfort-Bruno
-Baubelf@gmail.com
-
-
 # Concessions Stand
 
 This program is a simple concessions stand. 
@@ -12,4 +7,6 @@ The customer has an option to add items to their order.
 The program ends after printing a receipt.
 
 
+author: Baudelaire Belfort-Bruno
+email: Baubelf@gmail.com
 
