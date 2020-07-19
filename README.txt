@@ -7,6 +7,3 @@ The customer has an option to add items to their order.
 The program ends after printing a receipt.
 
 
-author: Baudelaire Belfort-Bruno
-email: Baubelf@gmail.com
-
